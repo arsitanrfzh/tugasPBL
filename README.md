@@ -1,4 +1,4 @@
-# 🚀 Website Portofolio Pribadi - [Arsita Nurfauziah]
+# 🚀 Website Portofolio Pribadi
 
 Proyek ini adalah sebuah website portofolio pribadi yang responsif, dibuat sebagai tugas dari program **Project Based Learning (PBL)** di **Balai Besar Pelatihan Vokasi dan Produktivitas (BBPVP) Bekasi**.
 
