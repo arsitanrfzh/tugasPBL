@@ -36,7 +36,7 @@ Untuk melihat website ini di komputer Anda, ikuti langkah berikut:
 
 1.  **Clone atau Unduh Repository**
     ```bash
-    git clone [Link-Repo-GitHub-Anda]
+    git clone https://github.com/arsitanrfzh/tugasPBL.git
     ```
     Atau unduh file ZIP dan ekstrak di komputer Anda.
 
